@@ -35,7 +35,7 @@
 
 ## <a name="run-application"></a>Run Application
 - After meeting the requirements and installation, run the main method in IsbnApplication.java at a spring boot app;
-- Make a GET request at http://localhost:8080/isbn/{isbn};
+- Make a HTTP GET request at http://localhost:8080/isbn/{isbn};
 - You'll get the ensuring Json return:
 ###
 ```xml
