@@ -12,7 +12,7 @@
 
 ## <a name="what-is-it"></a>What is it?
 
-- This API queries a book through ISBN-10 or ISBN-13 code and returns some of his foremost information.
+- This API queries a book through ISBN-10 or ISBN-13 code and returns a Json with the some of his foremost information of that book.
 - The base url that this api consumes is https://www.googleapis.com/books/v1/volumes?q=isbn:{isbn}
 
 ## <a name="requirements"></a>Requirements
